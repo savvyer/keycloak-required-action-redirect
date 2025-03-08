@@ -8,7 +8,7 @@ Configure docker:
 
 ```
 volumes:
-      - ./keycloak-redirect-26.0.0.jar:/opt/keycloak/providers/keycloak-redirect-26.0.0.jar
+      - ./keycloak-redirect-26.1.0.jar:/opt/keycloak/providers/keycloak-redirect-26.1.0.jar
 ```
 
 You can change redirect url without rebuilding this project by adding following config to the docker run command:
