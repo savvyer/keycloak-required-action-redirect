@@ -1,6 +1,5 @@
 # Keycloak Required Action Redirect
-
-Redirects user to the specified URL after successful login
+This is a keycloak extension which implements the keycloak required action SPI. This extension allows you to redirect users to the specified URL after successful login.
 
 ### Usage
 Download latest `jar`\
