@@ -1,5 +1,9 @@
 # Keycloak Required Action Redirect
-This is a keycloak extension which implements the keycloak required action SPI. This extension allows you to redirect users to the specified URL after successful login.
+This is a simple keycloak extension which implements the keycloak required action SPI. This extension allows you to redirect users to the specified URL after successful login.
+
+![GitHub release (latest SemVer)](https://img.shields.io/github/v/release/savvyer/keycloak-required-action-redirect?sort=semver)
+![GitHub Release Date](https://img.shields.io/github/release-date-pre/savvyer/keycloak-required-action-redirect)
+![Github Last Commit](https://img.shields.io/github/last-commit/savvyer/keycloak-required-action-redirect)
 
 ### Usage
 Download latest `jar`\
