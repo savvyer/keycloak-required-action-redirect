@@ -69,3 +69,6 @@ docker build -t keycloak-redirect .
 docker run --rm -v ./output:/app/output keycloak-redirect
 ```
 You will find `jar` in the `output` folder
+
+## Thanks
+A shout-out to [Lawlink](https://www.lawlink.de/) for being an incredible place to work and innovate. This extension was born out of the challenges and inspirations I encountered there. Visit [lawlink.de](https://www.lawlink.de/) for more about their work.
