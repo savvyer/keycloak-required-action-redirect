@@ -39,7 +39,7 @@ volumes:
 ## How to configure?
 
 ```properties
-spi-required-action-REDIRECT-redirect-url=https://google.com
+spi-required-action-REDIRECT-URL=https://google.com
 ```
 
 For details on SPI and provider configuration, please refer to [Configuring providers](https://www.keycloak.org/server/configuration-provider) guide.

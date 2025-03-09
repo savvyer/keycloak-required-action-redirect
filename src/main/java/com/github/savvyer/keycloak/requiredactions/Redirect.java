@@ -10,7 +10,7 @@ import org.keycloak.authentication.RequiredActionContext;
 
 public class Redirect implements RequiredActionProvider, RequiredActionFactory {
   private String redirectUrl;
-  public static final String CONFIG_REDIRECT_URL = "redirect-url";
+  public static final String CONFIG_REDIRECT_URL = "URL";
   public static final String DEFAULT_REDIRECT_URL = "https://www.youtube.com/watch?v=dQw4w9WgXcQ";
 
   @Override
